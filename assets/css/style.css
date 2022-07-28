@@ -15,11 +15,11 @@ body{
     color: white;
 }
 .carousel-text h1{
-    font-size: 5vw;
+    font-size: 4vw;
     font-weight: 600;
 }
 .carousel-text p{
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
 
 .icon i{
@@ -29,3 +29,9 @@ body{
 .btn{
     padding:10px 20px !important;
 }
+
+
+#carouselExample{
+    margin-top: -5rem;
+}
+
