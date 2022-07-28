@@ -1,37 +1,30 @@
-.carousel-item{
-    min-height: 50%;
-    background-position: center center;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    
+.carousel-item {
+  min-height: 50%;
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
-body{
-    font-size: 16px;
+body {
+  font-size: 16px;
 }
-
-.carousel-text{
-    padding: 15% ;
-    text-align: center;
-    color: white;
+.carousel-text {
+  padding: 15%;
+  text-align: center;
+  color: white;
 }
-.carousel-text h1{
-    font-size: 4vw;
-    font-weight: 600;
+.carousel-text h1 {
+  font-size: 4vw;
+  font-weight: 600;
 }
-.carousel-text p{
-    font-size: 1.5vw;
+.carousel-text p {
+  font-size: 1.5vw;
 }
-
-.icon i{
-    margin: 0px 1px;
+.icon i {
+  margin: 0px 1px;
 }
-
-.btn{
-    padding:10px 20px !important;
+.btn {
+  padding: 10px 20px !important;
 }
-
-
-#carouselExample{
-    margin-top: -5rem;
+#carouselExample {
+  margin-top: -5rem;
 }
-
