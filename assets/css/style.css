@@ -15,10 +15,17 @@ body{
     color: white;
 }
 .carousel-text h1{
-    font-size: 6vw;
+    font-size: 5vw;
     font-weight: 600;
 }
 .carousel-text p{
     font-size: 2vw;
 }
 
+.icon i{
+    margin: 0px 1px;
+}
+
+.btn{
+    padding:10px 20px !important;
+}
